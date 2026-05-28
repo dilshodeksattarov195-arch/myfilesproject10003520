@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercync",
+        "uuid": 13738560,
+        "checksum": "8oi2zq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
